@@ -1,5 +1,5 @@
-# Módulo 4
-## Happy Holidays! Análisis de los mejores destinos turísticos del 2024. 
+# Happy Holidays!
+## Análisis de los mejores destinos turísticos del 2024. 
 **Equipo desarrollo**: Elena Águila y Tania Graff 
 
 *Herramienta visualización:* Tableau Public
